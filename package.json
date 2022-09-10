@@ -1,7 +1,27 @@
 {
-  "name": "template-afulink",
-  "version": "0.1.0",
-  "private": true,
+  "name": "cra-template-afulink",
+  "version": "1.0.12",
+  "license": "GNU V3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnys-dev/cra-template-afulink"
+  },
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "afulink"
+  ],
+  "description": "Afulink template for Create React App",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -10,17 +30,15 @@
     "@types/node": "^16.11.58",
     "@types/react": "^18.0.18",
     "@types/react-dom": "^18.0.6",
+    "axios": "^0.27.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "router": "^1.3.7",
+    "styled-components": "^5.3.5",
     "typescript": "^4.8.3",
-    "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "web-vitals": "^3.0.1"
   },
   "eslintConfig": {
     "extends": [
@@ -28,16 +46,10 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   }
 }
