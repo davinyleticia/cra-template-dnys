@@ -1,10 +1,10 @@
 {
-  "name": "cra-template-afulink",
-  "version": "1.0.12",
+  "name": "cra-template-dnys",
+  "version": "1.0.0",
   "license": "GNU V3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnys-dev/cra-template-afulink"
+    "url": "https://github.com/dnys-dev/cra-template-dnys"
   },
   "main": "template.json",
   "keywords": [
