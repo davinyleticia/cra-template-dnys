@@ -1,6 +1,6 @@
 {
   "name": "cra-template-dnys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "GNU V3",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "create-react-app",
     "cra-template",
     "template",
-    "afulink"
+    "dnys"
   ],
   "description": "Afulink template for Create React App",
   "engines": {
