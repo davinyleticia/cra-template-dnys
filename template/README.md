@@ -9,7 +9,9 @@ in this template is configured:
 - style components
 - clean architecture
 
-Developed by Daviny [she]
+# About
+
+Developed by Daviny Vidal [she] - https://dnys.dev
 
 ## Available Scripts
 
