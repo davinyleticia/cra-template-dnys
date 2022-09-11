@@ -10,6 +10,7 @@ in this template is configured:
 - Public and Private Router
 - style components
 - clean architecture
+- TypeScript
 
 # Install 
 
